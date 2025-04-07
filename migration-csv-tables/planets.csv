@@ -1,0 +1,61 @@
+id,name,diameter,rotation_period,orbital_period,gravity,population,climate,terrain,surface_water,url,created,edited
+1,Tatooine,10465,23,304,1 standard,200000,arid,desert,1,https://swapi.dev/api/planets/1/,2014-12-09 13:50:49.641000,2014-12-20 20:58:18.411000
+2,Alderaan,12500,24,364,1 standard,2000000000,temperate,"grasslands, mountains",40,https://swapi.dev/api/planets/2/,2014-12-10 11:35:48.479000,2014-12-20 20:58:18.420000
+3,Yavin IV,10200,24,4818,1 standard,1000,"temperate, tropical","jungle, rainforests",8,https://swapi.dev/api/planets/3/,2014-12-10 11:37:19.144000,2014-12-20 20:58:18.421000
+4,Hoth,7200,23,549,1.1 standard,unknown,frozen,"tundra, ice caves, mountain ranges",100,https://swapi.dev/api/planets/4/,2014-12-10 11:39:13.934000,2014-12-20 20:58:18.423000
+5,Dagobah,8900,23,341,N/A,unknown,murky,"swamp, jungles",8,https://swapi.dev/api/planets/5/,2014-12-10 11:42:22.590000,2014-12-20 20:58:18.425000
+6,Bespin,118000,12,5110,"1.5 (surface), 1 standard (Cloud City)",6000000,temperate,gas giant,0,https://swapi.dev/api/planets/6/,2014-12-10 11:43:55.240000,2014-12-20 20:58:18.427000
+7,Endor,4900,18,402,0.85 standard,30000000,temperate,"forests, mountains, lakes",8,https://swapi.dev/api/planets/7/,2014-12-10 11:50:29.349000,2014-12-20 20:58:18.429000
+8,Naboo,12120,26,312,1 standard,4500000000,temperate,"grassy hills, swamps, forests, mountains",12,https://swapi.dev/api/planets/8/,2014-12-10 11:52:31.066000,2014-12-20 20:58:18.430000
+9,Coruscant,12240,24,368,1 standard,1000000000000,temperate,"cityscape, mountains",unknown,https://swapi.dev/api/planets/9/,2014-12-10 11:54:13.921000,2014-12-20 20:58:18.432000
+10,Kamino,19720,27,463,1 standard,1000000000,temperate,ocean,100,https://swapi.dev/api/planets/10/,2014-12-10 12:45:06.577000,2014-12-20 20:58:18.434000
+11,Geonosis,11370,30,256,0.9 standard,100000000000,"temperate, arid","rock, desert, mountain, barren",5,https://swapi.dev/api/planets/11/,2014-12-10 12:47:22.350000,2014-12-20 20:58:18.437000
+12,Utapau,12900,27,351,1 standard,95000000,"temperate, arid, windy","scrublands, savanna, canyons, sinkholes",0.9,https://swapi.dev/api/planets/12/,2014-12-10 12:49:01.491000,2014-12-20 20:58:18.439000
+13,Mustafar,4200,36,412,1 standard,20000,hot,"volcanoes, lava rivers, mountains, caves",0,https://swapi.dev/api/planets/13/,2014-12-10 12:50:16.526000,2014-12-20 20:58:18.440000
+14,Kashyyyk,12765,26,381,1 standard,45000000,tropical,"jungle, forests, lakes, rivers",60,https://swapi.dev/api/planets/14/,2014-12-10 13:32:00.124000,2014-12-20 20:58:18.442000
+15,Polis Massa,0,24,590,0.56 standard,1000000,artificial temperate ,airless asteroid,0,https://swapi.dev/api/planets/15/,2014-12-10 13:33:46.405000,2014-12-20 20:58:18.444000
+16,Mygeeto,10088,12,167,1 standard,19000000,frigid,"glaciers, mountains, ice canyons",unknown,https://swapi.dev/api/planets/16/,2014-12-10 13:43:39.139000,2014-12-20 20:58:18.446000
+17,Felucia,9100,34,231,0.75 standard,8500000,"hot, humid",fungus forests,unknown,https://swapi.dev/api/planets/17/,2014-12-10 13:44:50.397000,2014-12-20 20:58:18.447000
+18,Cato Neimoidia,0,25,278,1 standard,10000000,"temperate, moist","mountains, fields, forests, rock arches",unknown,https://swapi.dev/api/planets/18/,2014-12-10 13:46:28.704000,2014-12-20 20:58:18.449000
+19,Saleucami,14920,26,392,unknown,1400000000,hot,"caves, desert, mountains, volcanoes",unknown,https://swapi.dev/api/planets/19/,2014-12-10 13:47:46.874000,2014-12-20 20:58:18.450000
+20,Stewjon,0,unknown,unknown,1 standard,unknown,temperate,grass,unknown,https://swapi.dev/api/planets/20/,2014-12-10 16:16:26.566000,2014-12-20 20:58:18.452000
+21,Eriadu,13490,24,360,1 standard,22000000000,polluted,cityscape,unknown,https://swapi.dev/api/planets/21/,2014-12-10 16:26:54.384000,2014-12-20 20:58:18.454000
+22,Corellia,11000,25,329,1 standard,3000000000,temperate,"plains, urban, hills, forests",70,https://swapi.dev/api/planets/22/,2014-12-10 16:49:12.453000,2014-12-20 20:58:18.456000
+23,Rodia,7549,29,305,1 standard,1300000000,hot,"jungles, oceans, urban, swamps",60,https://swapi.dev/api/planets/23/,2014-12-10 17:03:28.110000,2014-12-20 20:58:18.458000
+24,Nal Hutta,12150,87,413,1 standard,7000000000,temperate,"urban, oceans, swamps, bogs",unknown,https://swapi.dev/api/planets/24/,2014-12-10 17:11:29.452000,2014-12-20 20:58:18.460000
+25,Dantooine,9830,25,378,1 standard,1000,temperate,"oceans, savannas, mountains, grasslands",unknown,https://swapi.dev/api/planets/25/,2014-12-10 17:23:29.896000,2014-12-20 20:58:18.461000
+26,Bestine IV,6400,26,680,unknown,62000000,temperate,"rocky islands, oceans",98,https://swapi.dev/api/planets/26/,2014-12-12 11:16:55.078000,2014-12-20 20:58:18.463000
+27,Ord Mantell,14050,26,334,1 standard,4000000000,temperate,"plains, seas, mesas",10,https://swapi.dev/api/planets/27/,2014-12-15 12:23:41.661000,2014-12-20 20:58:18.464000
+28,unknown,0,0,0,unknown,unknown,unknown,unknown,unknown,https://swapi.dev/api/planets/28/,2014-12-15 12:25:59.569000,2014-12-20 20:58:18.466000
+29,Trandosha,0,25,371,0.62 standard,42000000,arid,"mountains, seas, grasslands, deserts",unknown,https://swapi.dev/api/planets/29/,2014-12-15 12:53:47.695000,2014-12-20 20:58:18.468000
+30,Socorro,0,20,326,1 standard,300000000,arid,"deserts, mountains",unknown,https://swapi.dev/api/planets/30/,2014-12-15 12:56:31.121000,2014-12-20 20:58:18.469000
+31,Mon Cala,11030,21,398,1,27000000000,temperate,"oceans, reefs, islands",100,https://swapi.dev/api/planets/31/,2014-12-18 11:07:01.792000,2014-12-20 20:58:18.471000
+32,Chandrila,13500,20,368,1,1200000000,temperate,"plains, forests",40,https://swapi.dev/api/planets/32/,2014-12-18 11:11:51.872000,2014-12-20 20:58:18.472000
+33,Sullust,12780,20,263,1,18500000000,superheated,"mountains, volcanoes, rocky deserts",5,https://swapi.dev/api/planets/33/,2014-12-18 11:25:40.243000,2014-12-20 20:58:18.474000
+34,Toydaria,7900,21,184,1,11000000,temperate,"swamps, lakes",unknown,https://swapi.dev/api/planets/34/,2014-12-19 17:47:54.403000,2014-12-20 20:58:18.476000
+35,Malastare,18880,26,201,1.56,2000000000,"arid, temperate, tropical","swamps, deserts, jungles, mountains",unknown,https://swapi.dev/api/planets/35/,2014-12-19 17:52:13.106000,2014-12-20 20:58:18.478000
+36,Dathomir,10480,24,491,0.9,5200,temperate,"forests, deserts, savannas",unknown,https://swapi.dev/api/planets/36/,2014-12-19 18:00:40.142000,2014-12-20 20:58:18.480000
+37,Ryloth,10600,30,305,1,1500000000,"temperate, arid, subartic","mountains, valleys, deserts, tundra",5,https://swapi.dev/api/planets/37/,2014-12-20 09:46:25.740000,2014-12-20 20:58:18.481000
+38,Aleen Minor,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,https://swapi.dev/api/planets/38/,2014-12-20 09:52:23.452000,2014-12-20 20:58:18.483000
+39,Vulpter,14900,22,391,1,421000000,"temperate, artic","urban, barren",unknown,https://swapi.dev/api/planets/39/,2014-12-20 09:56:58.874000,2014-12-20 20:58:18.485000
+40,Troiken,unknown,unknown,unknown,unknown,unknown,unknown,"desert, tundra, rainforests, mountains",unknown,https://swapi.dev/api/planets/40/,2014-12-20 10:01:37.395000,2014-12-20 20:58:18.487000
+41,Tund,12190,48,1770,unknown,0,unknown,"barren, ash",unknown,https://swapi.dev/api/planets/41/,2014-12-20 10:07:29.578000,2014-12-20 20:58:18.489000
+42,Haruun Kal,10120,25,383,0.98,705300,temperate,"toxic cloudsea, plateaus, volcanoes",unknown,https://swapi.dev/api/planets/42/,2014-12-20 10:12:28.980000,2014-12-20 20:58:18.491000
+43,Cerea,unknown,27,386,1,450000000,temperate,verdant,20,https://swapi.dev/api/planets/43/,2014-12-20 10:14:48.178000,2014-12-20 20:58:18.493000
+44,Glee Anselm,15600,33,206,1,500000000,"tropical, temperate","lakes, islands, swamps, seas",80,https://swapi.dev/api/planets/44/,2014-12-20 10:18:26.110000,2014-12-20 20:58:18.495000
+45,Iridonia,unknown,29,413,unknown,unknown,unknown,"rocky canyons, acid pools",unknown,https://swapi.dev/api/planets/45/,2014-12-20 10:26:05.788000,2014-12-20 20:58:18.497000
+46,Tholoth,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,https://swapi.dev/api/planets/46/,2014-12-20 10:28:31.117000,2014-12-20 20:58:18.498000
+47,Iktotch,unknown,22,481,1,unknown,"arid, rocky, windy",rocky,unknown,https://swapi.dev/api/planets/47/,2014-12-20 10:31:32.413000,2014-12-20 20:58:18.500000
+48,Quermia,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,https://swapi.dev/api/planets/48/,2014-12-20 10:34:08.249000,2014-12-20 20:58:18.502000
+49,Dorin,13400,22,409,1,unknown,temperate,unknown,unknown,https://swapi.dev/api/planets/49/,2014-12-20 10:48:36.141000,2014-12-20 20:58:18.504000
+50,Champala,unknown,27,318,1,3500000000,temperate,"oceans, rainforests, plateaus",unknown,https://swapi.dev/api/planets/50/,2014-12-20 10:52:51.524000,2014-12-20 20:58:18.506000
+51,Mirial,unknown,unknown,unknown,unknown,unknown,unknown,deserts,unknown,https://swapi.dev/api/planets/51/,2014-12-20 16:44:46.318000,2014-12-20 20:58:18.508000
+52,Serenno,unknown,unknown,unknown,unknown,unknown,unknown,"rainforests, rivers, mountains",unknown,https://swapi.dev/api/planets/52/,2014-12-20 16:52:13.357000,2014-12-20 20:58:18.510000
+53,Concord Dawn,unknown,unknown,unknown,unknown,unknown,unknown,"jungles, forests, deserts",unknown,https://swapi.dev/api/planets/53/,2014-12-20 16:54:39.909000,2014-12-20 20:58:18.512000
+54,Zolan,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,https://swapi.dev/api/planets/54/,2014-12-20 16:56:37.250000,2014-12-20 20:58:18.514000
+55,Ojom,unknown,unknown,unknown,unknown,500000000,frigid,"oceans, glaciers",100,https://swapi.dev/api/planets/55/,2014-12-20 17:27:41.286000,2014-12-20 20:58:18.516000
+56,Skako,unknown,27,384,1,500000000000,temperate,"urban, vines",unknown,https://swapi.dev/api/planets/56/,2014-12-20 17:50:47.864000,2014-12-20 20:58:18.517000
+57,Muunilinst,13800,28,412,1,5000000000,temperate,"plains, forests, hills, mountains",25,https://swapi.dev/api/planets/57/,2014-12-20 17:57:47.420000,2014-12-20 20:58:18.519000
+58,Shili,unknown,unknown,unknown,1,unknown,temperate,"cities, savannahs, seas, plains",unknown,https://swapi.dev/api/planets/58/,2014-12-20 18:43:14.049000,2014-12-20 20:58:18.521000
+59,Kalee,13850,23,378,1,4000000000,"arid, temperate, tropical","rainforests, cliffs, canyons, seas",unknown,https://swapi.dev/api/planets/59/,2014-12-20 19:43:51.278000,2014-12-20 20:58:18.523000
+60,Umbara,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,https://swapi.dev/api/planets/60/,2014-12-20 20:18:36.256000,2014-12-20 20:58:18.525000
